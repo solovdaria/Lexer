@@ -1,0 +1,15 @@
+JS Lexer
+
+Includes following token types:
+    KEYWORD,
+    OPERATOR,
+    SEPARATOR,
+    COMMENT,
+    NUMBER,
+    FLOATING_POINT_LITERAL,
+    INTEGER_LITERAL,
+    BOOLEAN_LITERAL,
+    NULL_LITERAL,
+    STRING_LITERAL,
+    INCORRECT_TOKEN,
+    REGEXP
